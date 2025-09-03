@@ -2,11 +2,11 @@
 
 <div align="center" style="font-family: Arial, sans-serif; margin-bottom: 20px;">
   <h2>🌐 Navegación del Proyecto</h2>
-  <a href="#idea-1" style="margin: 0 20px; text-decoration: none; font-weight: bold; color: #0366d6;">🎮 IDEA 1</a>
+  <a href="https://github.com/Juan-Pablo-Castillo-Velasquez/Planeacion_de_proyectos/blob/main/idea1.md" style="margin: 0 20px; text-decoration: none; font-weight: bold; color: #0366d6;">🎮 IDEA 1</a>
   |
-  <a href="#idea-2" style="margin: 0 20px; text-decoration: none; font-weight: bold; color: #0366d6;">📍 IDEA 2</a>
+  <a href="https://github.com/Juan-Pablo-Castillo-Velasquez/Planeacion_de_proyectos/blob/main/ides2.md" style="margin: 0 20px; text-decoration: none; font-weight: bold; color: #0366d6;">📍 IDEA 2</a>
   |
-  <a href="#idea-3" style="margin: 0 20px; text-decoration: none; font-weight: bold; color: #0366d6;">✈️ IDEA 3</a>
+  <a href="https://github.com/Juan-Pablo-Castillo-Velasquez/Planeacion_de_proyectos/blob/main/idea3.md" style="margin: 0 20px; text-decoration: none; font-weight: bold; color: #0366d6;">✈️ IDEA 3</a>
 </div>
 
 <hr>
