@@ -1,0 +1,107 @@
+<h2 id="idea-2">⚙️ IDEA 2 – Plataforma Ciudadana de Reportes Urbanos</h2>
+
+<h3>🔍 Problema Específico Observado</h3>
+<p>En nuestras ciudades vemos a diario problemas como baches, fallas en el alumbrado, basura acumulada o daños en parques. Muchas personas no saben cómo reportarlos, y si lo hacen, el proceso suele ser lento, burocrático y sin seguimiento. Esto genera desconfianza hacia las autoridades y un entorno urbano en deterioro.</p>
+<p>👉 Conversamos con vecinos y estudiantes, y todos coincidieron en que han visto estos problemas, pero no tienen claro a quién reportarlos ni qué pasa después.</p>
+
+<h3>💡 Nuestra Idea</h3>
+<p>Una app y sitio web donde cualquier ciudadano pueda tomar una foto, agregar ubicación GPS y clasificar el problema (basura, iluminación, etc.) para enviarlo a una base central que pueda ser vista por la alcaldía. Además, todos los reportes aparecerán en un mapa público con su estado: pendiente, en proceso o resuelto.</p>
+
+<h3>🤝 Por Qué Nos Motiva Personalmente</h3>
+<p>Hemos vivido este problema en nuestros propios barrios. Nos frustra ver los mismos baches durante meses, sin solución. Queremos usar la tecnología para hacer algo útil y facilitar que más personas participen en el cuidado de su ciudad.</p>
+
+<h3>👤 Usuarios Objetivo</h3>
+<ul>
+  <li>Ciudadanos comunes que quieren mejorar su entorno.</li>
+  <li>Gobiernos locales que necesitan datos claros para actuar más rápido.</li>
+  <li>Organizaciones vecinales o ambientales que impulsan campañas de mejora urbana.</li>
+</ul>
+
+<h3>🚧 Reconocimiento Honesto de Nuestras Limitaciones</h3>
+<p>No sabemos aún cómo desarrollar una app, ni cómo conectar la información con un sistema de mapas o bases de datos. También necesitamos aprender cómo mostrar esa información públicamente de forma segura.</p>
+
+<h3>🎓 Lo Que Queremos Aprender para Hacerlo Realidad</h3>
+<ul>
+  <li>Fundamentos de programación (JavaScript, HTML/CSS).</li>
+  <li>Cómo hacer una app móvil y un sitio web.</li>
+  <li>Uso de patrones de diseño y metodologías de trabajo.</li>
+  <li>Cómo guardar datos en una base de datos y usar geolocalización.</li>
+  <li>Cómo enviar notificaciones y diseñar interfaces simples.</li>
+</ul>
+
+<h3>🔁 ¿Qué Sigue Después? (Planes por Fases)</h3>
+<ol>
+  <li><strong>Fase 1:</strong> Entender conceptos básicos de programación, diseño y bases de datos.</li>
+  <li><strong>Fase 2:</strong> Crear un primer prototipo muy básico de la app o web.</li>
+  <li><strong>Fase 3:</strong> Con ayuda docente, hacer pruebas reales, agregar funcionalidades y aprender cómo hacerla más útil y segura.</li>
+</ol>
+
+<h3>✅ Resumen Rápido</h3>
+<ul>
+  <li><strong>Problema:</strong> Ciudadanos no saben cómo reportar fallas urbanas.</li>
+  <li><strong>Solución:</strong> App/web para reportar con fotos, ubicación y seguimiento público.</li>
+  <li><strong>Motivación:</strong> Queremos que nuestra ciudad funcione mejor y que la gente participe.</li>
+  <li><strong>Limitaciones:</strong> No dominamos el desarrollo aún, pero estamos comprometidos a aprender.</li>
+</ul>
+
+<hr>
+
+<h3>💡 Idea del Proyecto</h3>
+<p>Desarrollar una plataforma digital (app y web) donde los ciudadanos puedan reportar problemas urbanos como baches, fallas en el alumbrado, basura acumulada o daños en el espacio público, con fotos y geolocalización.</p>
+
+<h3>🛑 Problema Identificado</h3>
+<ol>
+  <li>No saben a dónde reportarlos.</li>
+  <li>Los reportes en oficinas públicas suelen ser lentos y burocráticos.</li>
+  <li>Falta transparencia: no se sabe si el problema fue atendido o no.</li>
+  <li>Esto genera desconfianza hacia las instituciones y deterioro en la calidad de vida.</li>
+</ol>
+
+<h3>✅ Nuestra Solución</h3>
+<ul>
+  <li>Reportar problemas con foto + ubicación GPS.</li>
+  <li>Clasificar el reporte (basura, alumbrado, movilidad, etc.).</li>
+  <li>Enviar la información a una base de datos central para que la revise la autoridad local.</li>
+  <li>Mostrar un mapa público con el estado del reporte: pendiente, en proceso, resuelto.</li>
+</ul>
+
+<h3>👥 Usuarios Ideales</h3>
+<ul>
+  <li>Ciudadanos comunes que quieren mejorar su barrio o ciudad.</li>
+  <li>Alcaldías y entes públicos que reciben datos centralizados.</li>
+  <li>Organizaciones comunitarias o ambientales.</li>
+</ul>
+
+<h3>💰 Modelo de Negocio</h3>
+<ol>
+  <li>Versión gratuita para ciudadanos.</li>
+  <li>Modelo SaaS para gobiernos locales (suscripción mensual).</li>
+  <li>Patrocinios o publicidad responsable con empresas aliadas.</li>
+  <li>Data insights para gobiernos y ONGs (acceso premium a estadísticas).</li>
+</ol>
+
+<h3>📈 Escalabilidad</h3>
+<ol>
+  <li><strong>Nivel local:</strong> Empieza en un barrio o ciudad pequeña.</li>
+  <li><strong>Nivel regional:</strong> Se expande a varias ciudades.</li>
+  <li><strong>Nivel nacional:</strong> Integración con sistemas de gobierno.</li>
+  <li><strong>Futuro:</strong> Incluir inteligencia artificial para detectar patrones.</li>
+</ol>
+
+<h3>🛠️ Tecnología Propuesta</h3>
+<ul>
+  <li><strong>Frontend:</strong> React Native (app móvil) + React.js (web).</li>
+  <li><strong>Backend:</strong> Node.js con Express.</li>
+  <li><strong>Base de datos:</strong> PostgreSQL o MongoDB.</li>
+  <li><strong>Geolocalización:</strong> API de Google Maps u OpenStreetMap.</li>
+  <li><strong>Notificaciones:</strong> Firebase.</li>
+  <li><strong>Infraestructura:</strong> AWS, Azure o Google Cloud.</li>
+</ul>
+
+<h3>🌍 Impacto Esperado</h3>
+<ul>
+  <li><strong>Social:</strong> Mayor participación ciudadana y confianza en instituciones.</li>
+  <li><strong>Económico:</strong> Reducción de costos para gobiernos con datos en tiempo real.</li>
+  <li><strong>Ambiental:</strong> Ciudades más limpias con atención rápida a problemas.</li>
+  <li><strong>Tecnológico:</strong> Fomenta el uso de tecnología cívica para resolver problemas reales.</li>
+</ul>
