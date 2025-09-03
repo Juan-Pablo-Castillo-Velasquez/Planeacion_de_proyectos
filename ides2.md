@@ -1,5 +1,9 @@
 <h2 id="idea-2">⚙️ IDEA 2 – Plataforma Ciudadana de Reportes Urbanos</h2>
-
+<p align="center">
+  <a href="https://github.com/Juan-Pablo-Castillo-Velasquez/Planeacion_de_proyectos/blob/main/idea3.md" target="_blank">
+  ver la siguiente idea
+  </a>
+</p>
 <h3>🔍 Problema Específico Observado</h3>
 <p>En nuestras ciudades vemos a diario problemas como baches, fallas en el alumbrado, basura acumulada o daños en parques. Muchas personas no saben cómo reportarlos, y si lo hacen, el proceso suele ser lento, burocrático y sin seguimiento. Esto genera desconfianza hacia las autoridades y un entorno urbano en deterioro.</p>
 <p>👉 Conversamos con vecinos y estudiantes, y todos coincidieron en que han visto estos problemas, pero no tienen claro a quién reportarlos ni qué pasa después.</p>
