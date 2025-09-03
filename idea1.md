@@ -1,7 +1,7 @@
 <h2 id="idea-1">🎮 IDEA 1 – Juego Educativo de Finanzas Personales para Jóvenes</h2>
 <p align="center">
   <a href="https://github.com/Juan-Pablo-Castillo-Velasquez/Planeacion_de_proyectos" target="_blank">
-    <img src="https://img.shields.io/badge/🚀%20Visitar%20Proyecto%20en%20GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=2c2c2c&color=000000" alt="Botón GitHub">
+ver la siguiente idea
   </a>
 </p>
 <h3>🔍 Problema Específico Observado</h3>
