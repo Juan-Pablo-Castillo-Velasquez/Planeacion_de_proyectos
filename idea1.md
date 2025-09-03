@@ -1,8 +1,9 @@
 <p align="center">
   <a href="https://github.com/Juan-Pablo-Castillo-Velasquez/Planeacion_de_proyectos?tab=readme-ov-file" target="_blank">
-    <img src="https://img.shields.io/badge/⬅️%20Volver%20al%20Perfil%20de%20GitHub-blue?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/🔙 Volver%20al%20Proyecto-blue?style=for-the-badge&logo=github">
   </a>
 </p>
+
 <h2 id="idea-1">🎮 IDEA 1 – Juego Educativo de Finanzas Personales para Jóvenes</h2>
 <p align="center">
   <a href="https://github.com/Juan-Pablo-Castillo-Velasquez/Planeacion_de_proyectos/blob/main/ides2.md" target="_blank">
