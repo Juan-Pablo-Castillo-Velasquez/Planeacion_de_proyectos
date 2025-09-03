@@ -1,4 +1,5 @@
-<!-- Menú de Navegación -->
+
+
 <div align="center" style="font-family: Arial, sans-serif; margin-bottom: 20px;">
   <h2>🌐 Navegación del Proyecto</h2>
   <a href="#idea-1" style="margin: 0 20px; text-decoration: none; font-weight: bold; color: #0366d6;">🎮 IDEA 1</a>
