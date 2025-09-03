@@ -1,6 +1,6 @@
 <h2 id="idea-1">🎮 IDEA 1 – Juego Educativo de Finanzas Personales para Jóvenes</h2>
 <p align="center">
-  <a href="https://github.com/Juan-Pablo-Castillo-Velasquez/Planeacion_de_proyectos" target="_blank">
+  <a href="https://github.com/Juan-Pablo-Castillo-Velasquez/Planeacion_de_proyectos/blob/main/ides2.md" target="_blank">
 ver la siguiente idea
   </a>
 </p>
