@@ -3,6 +3,9 @@
   <a href="https://github.com/Juan-Pablo-Castillo-Velasquez/Planeacion_de_proyectos/blob/main/idea3.md" target="_blank">
   ver la siguiente idea
   </a>
+   <a href="https://github.com/Juan-Pablo-Castillo-Velasquez/Planeacion_de_proyectos/blob/main/idea1.md" target="_blank">
+ volver a la idea anterior
+  </a>
 </p>
 <h3>🔍 Problema Específico Observado</h3>
 <p>En nuestras ciudades vemos a diario problemas como baches, fallas en el alumbrado, basura acumulada o daños en parques. Muchas personas no saben cómo reportarlos, y si lo hacen, el proceso suele ser lento, burocrático y sin seguimiento. Esto genera desconfianza hacia las autoridades y un entorno urbano en deterioro.</p>
