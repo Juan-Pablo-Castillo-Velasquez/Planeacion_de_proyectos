@@ -1,5 +1,9 @@
 <h2 id="idea-1">🎮 IDEA 1 – Juego Educativo de Finanzas Personales para Jóvenes</h2>
-
+<p align="center">
+  <a href="https://github.com/Juan-Pablo-Castillo-Velasquez/Planeacion_de_proyectos" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Visitar%20Proyecto%20en%20GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=2c2c2c&color=000000" alt="Botón GitHub">
+  </a>
+</p>
 <h3>🔍 Problema Específico Observado</h3>
 <p>Muchas personas no aprenden sobre finanzas personales en la escuela. No saben cómo administrar su dinero, hacer un presupuesto, evitar deudas o ahorrar. Esto les causa problemas cuando empiezan a trabajar o a vivir solos.</p>
 <p>👉 Hablamos con compañeros y familiares jóvenes, y varios nos dijeron que no saben cómo manejar una tarjeta de crédito, cuánto deberían ahorrar al mes o cómo evitar gastar de más.</p>
