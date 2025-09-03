@@ -1,4 +1,9 @@
 <h2 id="idea-plataforma-viajes">✈️ IDEA – Plataforma de Gestión y Reservas para Agencia de Viajes</h2>
+<p align="center">
+  <a href="https://github.com/Juan-Pablo-Castillo-Velasquez/Planeacion_de_proyectos/blob/main/ides2.md" target="_blank">
+   volver a la idea anterior
+  </a>
+</p>
 
 <h3>🔍 Problema Específico Observado</h3>
 <p>Las agencias de viajes pequeñas y medianas todavía gestionan sus paquetes turísticos, clientes y reservas de forma manual (Excel, llamadas, correos). Esto provoca duplicidad de información y errores en reservas, pérdida de clientes que prefieren plataformas digitales rápidas y dificultad para dar seguimiento a pagos, itinerarios y disponibilidad.</p>
