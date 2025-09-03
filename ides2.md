@@ -3,6 +3,7 @@
   <a href="https://github.com/Juan-Pablo-Castillo-Velasquez/Planeacion_de_proyectos/blob/main/idea3.md" target="_blank">
   ver la siguiente idea
   </a>
+||
    <a href="https://github.com/Juan-Pablo-Castillo-Velasquez/Planeacion_de_proyectos/blob/main/idea1.md" target="_blank">
  volver a la idea anterior
   </a>
