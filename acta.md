@@ -97,7 +97,7 @@ Enfoque: **iterativo y modular** (Scrum / Kanban según necesidad).
 - **GitHub** — repositorio remoto, pull requests, issues, GitHub Actions (CI/CD).  
 - **Jira** — gestión ágil: historias, sprints, tableros y seguimiento.  
 - **Docker / Kubernetes** — contenedorización y orquestación.  
-- **MySQL** (o DB relacional) — almacenamiento principal.  
+- **postgresql** (o DB relacional) — almacenamiento principal.  
 - **Python** — API de analítica y scripts de ETL/ML básicos.
 
 ### Flujo propuesto (Git + GitHub + Jira)
