@@ -1,8 +1,9 @@
 <p align="center">
-  <a href="https://github.com/Juan-Pablo-Castillo-Velasquez/Planeacion_de_proyectos?tab=readme-ov-file" target="_blank">
-    <img src="https://img.shields.io/badge/🔙 Volver%20al%20Proyecto-blue?style=for-the-badge&logo=github">
+  <a href="https://github.com/Juan-Pablo-Castillo-Velasquez/Planeacion_de_proyectos/blob/main/acta.md" target="_blank">
+    <img src="https://img.shields.io/badge/🔙 acta%20al%20Proyecto-blue?style=for-the-badge&logo=github">
   </a>
 </p>
+
 
 
 
