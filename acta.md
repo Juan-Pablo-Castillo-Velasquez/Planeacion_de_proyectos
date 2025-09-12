@@ -112,16 +112,15 @@ Enfoque: **iterativo y modular** (Scrum / Kanban según necesidad).
 ---
 
 ## 🧑‍🤝‍🧑 10. Recursos y responsables
+| Integrante          | Rol / Responsabilidades                                                                 |
+|---------------------|------------------------------------------------------------------------------------------|
+| **Juan Pablo Castillo** | QA de despliegue — Testing de pipelines, integración continua, Docker, Kubernetes        |
+| **Jhohan**          | Frontend — React (TS) + UI/UX                                                            |
+| **Brayan**          | Backend — Express (TS), API en Python para analítica de datos                            |
+| **Jhon**            | QA — Testing funcional, automatizado y documentación                                     |
+| **Fernando**        | Integraciones — APIs externas, módulos adicionales      
 
-| Integrante | Rol / Responsabilidades |
-|---|---|
-| Juan Pablo Castillo | Responsable principal — Backend (Express/TS), API Python, despliegue |
-| Jhohan | Frontend — React (TS) + UI/UX |
-| Brayan | DevOps — Docker, Kubernetes, CI/CD pipelines |
-| Jhon | QA — Testing automatizado, revisión y documentación |
-| Fernando | Integraciones — APIs externas y módulos adicionales |
-
-**Recursos técnicos:** GitHub, MySQL, Docker, Kubernetes (staging), entorno CI (Actions/GitLab CI), Jira/Trello.
+**Recursos técnicos:** GitHub, postgredb, Docker, Kubernetes (staging), entorno CI (Actions/GitLab CI), Jira/Trello.
 
 ---
 
